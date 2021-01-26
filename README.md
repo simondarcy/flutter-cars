@@ -4,6 +4,7 @@ A simple Car Rental application using [Flutter](https://flutter.dev/) and the [C
 
 ![alt text](https://simondarcyonline.com/cartrawler/flutter-cars-screens.png "Screenshot of app")
 
+You can watch a demo video [here](https://youtu.be/hUO3epWEk2I)
 
 ## Getting Started
 
@@ -58,9 +59,13 @@ Once your keys are ready, run `Pub get` to add the following dependencies:
 - Store booked cars on server rather than SQLite DB.
 - Implement an Insurance screen. 
 
-## Demo SDK
+## Demo APK
 
-You can download a version of the SDK [here](https://simondarcyonline.com/cartrawler/)
+You can download an APK from one of the following links: 
+
+- [ARM 32-bit](https://simondarcyonline.com/cartrawler/flutter-cars/app-armeabi-v7a-release.apk)
+- [ARM 64-bit](https://simondarcyonline.com/cartrawler/flutter-cars/app-arm64-v8a-release.apk)
+- [x86 64-bit](https://simondarcyonline.com/cartrawler/flutter-cars/app-x86_64-release.apk)
 
 ## CarTrawler Native SDK
 
